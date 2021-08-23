@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, Welcome :handshake: 
+#### I am Adrian.
+
+##### About me 
+
+I am Electronic engineer, project management professional PMP and Scrum Master, with 8 years experience leading innovation, digital transformation, and tech product devel
 
 <!--
 **AdrianGutiR/adriangutir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
