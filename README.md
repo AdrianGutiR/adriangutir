@@ -2,8 +2,7 @@
 #### I am Adrian.
 
 ##### About me 
-
-I am Electronic engineer, project management professional PMP and Scrum Master, with 8 years experience leading innovation, digital transformation, and tech product devel
+I am Electronic engineer, project management professional PMP and Scrum Master, with 8 years experience leading innovation, digital transformation, and tech product development projects. Product manager, fan of the Gaming industry currently working on projects to integrate AI and data to videogames, CGI, and VFX production pipeline.
 
 <!--
 **AdrianGutiR/adriangutir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
